@@ -20,7 +20,6 @@ My interests span across **security & cryptography**, **automation & bots**, **t
 - 💻 I go **end-to-end** — architecture → backend → frontend → deployment
 - 🛡️ Deep interest in **security, cryptography & privacy engineering**
 - 📱 Built full projects on **Android (Termux)** — code anywhere, anytime
-- 📊 Explore **algorithmic trading** — NIFTY 50 analysis, signal bots
 - 🤝 Collaborating with **Mrunmayee Kalingada** on all major projects
 - 💼 **Work from home** — building in public, shipping real products
 - 🌍 Based in **Mumbai, Maharashtra, India** 🇮🇳
