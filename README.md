@@ -8,6 +8,36 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=machchhindra-kalingada&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/machchhindra-kalingada)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=machchhindra-kalingada&theme=tokyo-night&hide_border=true&area=true)](https://github.com/machchhindra-kalingada)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake Dark](https://raw.githubusercontent.com/machchhindra-kalingada/machchhindra-kalingada/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
