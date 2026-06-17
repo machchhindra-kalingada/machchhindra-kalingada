@@ -12,11 +12,31 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **[StegoMaster](https://stegomaster.in)** — Military-grade steganography platform
-- 🛡️ Passionate about **Security, Privacy & Cryptography**
-- 💻 Love building **full-stack products** from CLI to SaaS
-- 🌍 Based in **Mumbai, Maharashtra, India**
-- ⚡ Fun fact: I hide secrets inside photos for a living!
+Hey! I'm **Machchhindra Kalingada** — a full-stack developer from **Mumbai, India** who builds privacy and security tools that actually matter.
+
+I started with curiosity about cryptography and steganography, and that curiosity turned into **StegoMaster** — a production-grade platform that hides encrypted messages inside ordinary images, audio, video, and documents. What started as a CLI tool grew into a complete SaaS product with payment integration, Pro/Free tiers, and a professional web interface.
+
+I don't just write code — I build **complete products**. From the cryptographic engine (AES-256-GCM, PBKDF2, SHAKE-256) to the frontend UI (Flask, React, JavaScript), from the steganalysis validation suite to the Razorpay payment integration — everything end-to-end.
+
+- 🔭 Currently building **[StegoMaster](https://stegomaster.in)** — Military-grade steganography SaaS (₹99/month)
+- 🛡️ Deep interest in **Security, Cryptography & Privacy engineering**
+- 💻 Love building **complete products** — CLI → API → Web → SaaS
+- 🧪 Every feature gets **tested before pushed** — no broken repos!
+- 📱 Built projects in **Termux on Android** — code anywhere, anytime
+- 📊 Also explore **algorithmic trading** — NIFTY 50, binary options signal bots
+- 🤝 Built with my partner **Mrunmayee Kalingada** — true team effort
+- 🌍 Based in **Mumbai, Maharashtra, India** 🇮🇳
+- 💼 **Work from home** — building in public, shipping real products
+- ⚡ Fun fact: I hide encrypted secrets inside your vacation photos — and you'd never know!
+
+### 🎯 What drives me
+I believe privacy is a right, not a privilege. Every project I build has **genuine security** at its core — not security theater. When StegoMaster says AES-256-GCM, the code actually implements it. When it says steganalysis-validated, it's actually tested against 7 professional detectors. No fake claims.
+
+### 📈 Current Focus
+- 🔐 Shipping **StegoMaster v18.0** — CLI + Web SaaS fully live
+- 🏗️ Fixing bugs, writing tests, improving architecture
+- 🚀 Planning **Android app** and **browser extension**
+- 📚 Documenting everything — because good code deserves good docs
 
 ---
 
