@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=machchhindra-kalingada&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/machchhindra-kalingada)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=machchhindra-kalingada&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=4)](https://github.com/machchhindra-kalingada)
 
 </div>
 
