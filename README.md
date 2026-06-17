@@ -67,7 +67,7 @@ My interests span across **security & cryptography**, **automation & bots**, **t
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| 🔐 **[StegoMaster](https://stegomaster.in)** | Hide encrypted messages inside images, audio, video & docs. AES-256-GCM + steganalysis validated. CLI + SaaS web app with Razorpay payments | Python · Flask · JS · CSS | ✅ Live |
+| 🔐 **[StegoMaster](https://stegomaster.com)** | Hide encrypted messages inside images, audio, video & docs. AES-256-GCM + steganalysis validated. CLI + SaaS web app with Razorpay payments | Python · Flask · JS · CSS | ✅ Live |
 | 🎵 **MediaForge** | Browser-side media processing — video compress, convert, trim. No uploads, 100% private. Built entirely in Termux on Android | React · Vite · FFmpeg WASM | ✅ Built |
 | 🤖 **Quotex Signal Bot** | Multi-user Telegram bot for binary options. OTC/Live pair selection, payout drop checks, auto WIN/LOSS tracking. Signals only on candle close | Python · pyquotex · Telegram API | ✅ Built |
 | 🔑 **Secure QR Platform** | SaaS QR platform with cybersecurity differentiator — Scan Safety Score via Google Safe Browsing API. Indian market focus | Next.js · Node.js · PostgreSQL | 🔄 Planned |
@@ -94,7 +94,7 @@ My interests span across **security & cryptography**, **automation & bots**, **t
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-machchhindra--kalingada-181717?style=for-the-badge&logo=github)](https://github.com/machchhindra-kalingada)
-[![Website](https://img.shields.io/badge/Website-stegomaster.in-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stegomaster.in)
+[![Website](https://img.shields.io/badge/Website-stegomaster.com-00C851?style=for-the-badge&logo=google-chrome&logoColor=white)](https://stegomaster.com)
 [![Email](https://img.shields.io/badge/Email-mkalingada841%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkalingada841@gmail.com)
 
 </div>
