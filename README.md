@@ -8,25 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Machchhindra Kalingada** — a full-stack developer from **Mumbai, India** who loves turning ideas into real, working products.
-
-I don't stop at prototypes. I build complete products — from the core engine to the UI, from CLI tools to SaaS web apps with payment integration. Every project I ship is something I'd use myself.
-
-My interests span across **security & cryptography**, **automation & bots**, **trading tools**, **browser-based apps**, and **SaaS products**. If there's a problem worth solving, I'll build a tool for it.
-
-- 🔭 Currently building multiple tools — steganography, media processing, QR platforms, trading bots
-- 💻 I go **end-to-end** — architecture → backend → frontend → deployment
-- 🛡️ Deep interest in **security, cryptography & privacy engineering**
-- 📱 Built full projects on **Android (Termux)** — code anywhere, anytime
-- 🤝 Collaborating with **Mrunmayee Kalingada** on all major projects
-- 💼 **Work from home** — building in public, shipping real products
-- 🌍 Based in **Mumbai, Maharashtra, India** 🇮🇳
-- ⚡ Fun fact: One of my tools hides encrypted secrets inside your vacation photos — invisibly!
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -58,6 +39,25 @@ My interests span across **security & cryptography**, **automation & bots**, **t
 ![Automation](https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Machchhindra Kalingada** — a full-stack developer from **Mumbai, India** who loves turning ideas into real, working products.
+
+I don't stop at prototypes. I build complete products — from the core engine to the UI, from CLI tools to SaaS web apps with payment integration. Every project I ship is something I'd use myself.
+
+My interests span across **security & cryptography**, **automation & bots**, **trading tools**, **browser-based apps**, and **SaaS products**. If there's a problem worth solving, I'll build a tool for it.
+
+- 🔭 Currently building multiple tools — steganography, media processing, QR platforms, trading bots
+- 💻 I go **end-to-end** — architecture → backend → frontend → deployment
+- 🛡️ Deep interest in **security, cryptography & privacy engineering**
+- 📱 Built full projects on **Android (Termux)** — code anywhere, anytime
+- 🤝 Collaborating with **Mrunmayee Kalingada** on all major projects
+- 💼 **Work from home** — building in public, shipping real products
+- 🌍 Based in **Mumbai, Maharashtra, India** 🇮🇳
+- ⚡ Fun fact: One of my tools hides encrypted secrets inside your vacation photos — invisibly!
 
 ---
 
